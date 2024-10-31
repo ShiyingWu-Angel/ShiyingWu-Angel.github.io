@@ -29,27 +29,19 @@ rest_inspec =
 
 Column {data-width=650}
 -----------------------------------------------------------------------
+
 ### Chart A
 
 ```{r}
-library(dplyr)
-library(plotly)
-
 rest_inspec |>
   group_by(boro) |>
   summarise(average_score = mean(score, na.rm = TRUE)) |>
   mutate(average_score = round(average_score, 2)) |>
   mutate(boro = fct_reorder(boro, average_score)) |>
-  plot_ly(
-    x = ~average_score,
-    y = ~boro,
-    type = 'bar',
-    text = ~average_score,
-    marker = list(color = ~average_score, colorscale = 'Viridis', colorbar = list(title = "Score"))
-  ) 
+  plot_ly(x = ~average_score, y = ~boro, type = 'bar', text = ~average_score, marker = list(color = ~average_score, colorscale = 'Viridis', colorbar = list(title = "Score"))) 
 ```
 
-Column {data-width=650}
+Column {data-width=350}
 -----------------------------------------------------------------------
 
 ### Chart B
@@ -59,10 +51,7 @@ rest_inspec |>
   mutate(year = format(as.Date(inspection_date, format = "%Y-%m-%d"), "%Y")) |>
   group_by(boro, year) |>
   summarise(average_score = mean(score, na.rm = TRUE), .groups = 'drop') |>
-  plot_ly(
-    x = ~year, 
-    y = ~average_score, 
-    type = 'scatter', mode = 'lines+markers', color = ~boro, colors = "viridis")
+  plot_ly(x = ~year, y = ~average_score, type = 'scatter', mode = 'lines+markers', color = ~boro, colors = "viridis")
 ```
 
 ### Chart C
