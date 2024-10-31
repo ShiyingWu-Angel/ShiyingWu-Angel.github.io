@@ -1,0 +1,18 @@
+name: "Yay internet!"
+output_dir: "."
+navbar:
+  title: "Home"
+  right:
+    - text: "About"
+      href: about.html
+    - text: "Dashboard"
+      href: dashboard.html
+    - icon: fa-envelope fa-lg
+      href: mailto:<sw3455@columbia.com>
+    - icon: fa-github fa-lg
+      href: http://github.com/ShiyingWu-Angel/
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/shiying-wu-angel/
+output:
+  html_document:
+   theme: cerulean

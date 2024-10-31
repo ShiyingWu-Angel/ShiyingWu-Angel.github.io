@@ -1,0 +1,74 @@
+---
+title: "Dashboard"
+output: 
+  flexdashboard::flex_dashboard:
+    orientation: columns
+    vertical_layout: fill
+---
+
+```{r setup, include=FALSE}
+library(flexdashboard)
+library(plotly)
+library(p8105.datasets)
+library(tidyr)
+library(dplyr)
+library(forcats)
+```
+
+```{r data cleaning}
+data("rest_inspec")
+set.seed(821)  
+rest_inspec = 
+  rest_inspec |> 
+  filter(boro != "Missing", score >= 0) |>
+  select(boro, inspection_date, score) |>
+  drop_na() |>
+  mutate(inspection_date = as.Date(inspection_date, format = "%Y-%m-%d")) |>
+  sample_n(size = 5000)
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+### Chart A
+
+```{r}
+library(dplyr)
+library(plotly)
+
+rest_inspec |>
+  group_by(boro) |>
+  summarise(average_score = mean(score, na.rm = TRUE)) |>
+  mutate(average_score = round(average_score, 2)) |>
+  mutate(boro = fct_reorder(boro, average_score)) |>
+  plot_ly(
+    x = ~average_score,
+    y = ~boro,
+    type = 'bar',
+    text = ~average_score,
+    marker = list(color = ~average_score, colorbar = list(title = "Score"))
+  ) 
+```
+
+Column {data-width=650}
+-----------------------------------------------------------------------
+
+### Chart B
+
+```{r}
+rest_inspec |>
+  mutate(year = format(as.Date(inspection_date, format = "%Y-%m-%d"), "%Y")) |>
+  group_by(boro, year) |>
+  summarise(average_score = mean(score, na.rm = TRUE), .groups = 'drop') |>
+  plot_ly(
+    x = ~year, 
+    y = ~average_score, 
+    type = 'scatter', mode = 'lines+markers', color = ~boro, colors = "viridis")
+```
+
+### Chart C
+
+```{r}
+rest_inspec |>
+  mutate(boro = fct_reorder(boro, score, .fun = median)) |>
+  plot_ly(x = ~boro, y = ~score, type = 'box', color = ~boro, colors = "viridis") 
+```

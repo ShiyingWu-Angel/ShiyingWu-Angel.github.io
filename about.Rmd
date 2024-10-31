@@ -1,0 +1,69 @@
+
+---
+title: "Things About Me"
+output: html_document
+---
+# Shiying Wu (Angel)
+New York, NY (Open to Relocate)
+
+## Academic Background
+**Columbia University** (09/2024 - Expected 05/2026)
+
+- **Master of Science in Biostatistics** (Theory and Method Track)
+
+**Boston University** (01/2021 - 05/2024)
+
+- **Bachelor of Arts in Mathematics, Specialty in Statistics**
+- **Minor in Computer Science**
+- **Awards:** Dean’s List (Summer 2021 - Spring 2024)
+- **Activities:** Leader of BU Mathematical Association of America Chapter, Marketing Club, BU CGS Peer Mentor
+
+## Skills
+
+- **Programming Languages:** R (tidyverse, ggplot2, dplyr), Python (pandas, numpy), Java, SAS, HTML, JavaScript
+- **Tools:** Tableau, Excel (Pivot tables, VBA, advanced formulas)
+- **Languages:** Japanese (Native), Mandarin (Native), English (Fluent)
+
+## Professional Experience
+
+**Ernst & Young**, Shanghai, China
+**Financial Analysis Intern (07/2023)**
+
+- Collaborated on compiling and analyzing financial data for Intesa Sanpaolo S.p.A.
+- Developed Java-based solutions to improve financial workflow efficiency, reducing processing time by 50%.
+
+**Noah Holdings**, Hangzhou, China
+**Advisory Assistant (06/2022 - 08/2022)**
+
+- Executed in-depth analysis of client financial needs and risk profiles.
+- Facilitated leadership in budgeting projects totaling over $20,000.
+- **Award:** Honor Intern, Honor Team Leader.
+
+# Research Experience
+
+**Columbia University** (07/2023 - 08/2023)    
+**Statistical Researcher**
+
+- Developed statistical models using UK Biobank data, analyzing insomnia and diabetes correlations.
+
+**Boston University** (01/2023 - 05/2024)     
+**Statistical Researcher at MOCOVI Research Group**
+
+- Analyzed health datasets and visualized findings using R and Tableau.
+- Presented results on Type 2 Diabetes correlations at three conferences.
+
+# Leadership Experience
+
+**Teaching Assistant**: Boston University (10/2023 - 05/2024)      
+**Executive Board Member**: BU Mathematical Association of America Chapter (05/2021 - 05/2024)      
+**Peer Mentor**: BU CGS (09/2022 - 05/2024)     
+ 
+# Additional Experience
+
+**Gold Key Real Estate**, Osaka, Japan      
+**Sales Assistant** (05/2022 - 06/2022)
+
+**Qingdao Haitong Garment**, Qingdao, China      
+**Salesperson** (08/2020 - 08/2021)
+
+You can also download my resume in [here](resource/Resume-Shiying Wu 2024.pdf)

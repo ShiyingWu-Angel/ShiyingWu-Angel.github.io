@@ -1,0 +1,22 @@
+---
+title: "Shiying Wu(Angel)'s Amazing Web"
+output: 
+  html_document:
+    toc: true
+    toc_float: true
+---
+
+# Welcome to My Website
+Hello! My name is Shiying Wu(Angel), and I'm currently taking MS in Biostatistics at Columbia University. I have a strong interest in applying statistical methods to solve real-world problems.
+
+Feel free to explore, and reach out if you’d like to collaborate or discuss any exciting opportunities!
+
+**Contact Info:**    
+**Email:** [sw3455@columbia.edu](mailto:sw3455@columbia.edu)  
+**GitHub:** [ShiyingWu-Angel](https://github.com/ShiyingWu-Angel)      
+**Linkedin:** [Shiying-Wu-Angel](https://www.linkedin.com/in/shiying-wu-angel/)
+
+If you'd like to learn more about this website, visit [this page](https://github.com/ShiyingWu-Angel/ShiyingWu-Angel.github.io).
+
+Me graduating from Hogwarts 
+![](resource/Hogwarts.jpeg)
