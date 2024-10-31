@@ -61,3 +61,4 @@ rest_inspec |>
   mutate(boro = fct_reorder(boro, score, .fun = median)) |>
   plot_ly(x = ~boro, y = ~score, type = 'box', color = ~boro, colors = "viridis") 
 ```
+
