@@ -45,7 +45,7 @@ rest_inspec |>
     y = ~boro,
     type = 'bar',
     text = ~average_score,
-    marker = list(color = ~average_score, colorbar = list(title = "Score"))
+    marker = list(color = ~average_score, colorscale = 'Viridis', colorbar = list(title = "Score"))
   ) 
 ```
 
