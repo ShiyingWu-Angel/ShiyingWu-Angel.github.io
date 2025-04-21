@@ -4,66 +4,91 @@ title: "Things About Me"
 output: html_document
 ---
 # Shiying Wu (Angel)
-New York, NY (Open to Relocate)
+New York, NY (Open to Relocate)  
+857-930-3081 | sw3455@cumc.columbia.edu  
+[LinkedIn](https://www.linkedin.com/in/shiying-wu-angel/)  
+
+---
 
 ## Academic Background
-**Columbia University** (09/2024 - Expected 05/2026)
 
-- **Master of Science in Biostatistics** (Theory and Method Track)
+**Columbia University**, New York, NY *(09/2024 – Expected 05/2026)*  
+**Master of Science in Biostatistics**, Theory and Method Track  
+- GPA: 3.8  
+- Relevant Coursework: Epidemiology, Data Science, Statistical Inference, Biostatistical Methods, Randomized Controlled Trials  
 
-**Boston University** (01/2021 - 05/2024)
+**Boston University**, Boston, MA *(01/2021 – 05/2024)*  
+**Bachelor of Arts in Mathematics**, Specialty in Statistics  
+- Minor in Computer Science  
+- GPA: 3.6  
+- Awards: Dean’s List (2021–2024)  
+- Activities: BU Mathematical Association (Leader), Marketing Club, CGS Peer Mentor  
+- Campus Roles: Teaching Assistant (Statistics I, Calculus II)
 
-- **Bachelor of Arts in Mathematics, Specialty in Statistics**
-- **Minor in Computer Science**
-- **Awards:** Dean’s List (Summer 2021 - Spring 2024)
-- **Activities:** Leader of BU Mathematical Association of America Chapter, Marketing Club, BU CGS Peer Mentor
+---
 
 ## Skills
 
-- **Programming Languages:** R (tidyverse, ggplot2, dplyr), Python (pandas, numpy), Java, SAS, HTML, JavaScript
-- **Tools:** Tableau, Excel (Pivot tables, VBA, advanced formulas)
-- **Languages:** Japanese (Native), Mandarin (Native), English (Fluent)
+- **Programming Languages:** R (ggplot2, lme4, survival), Python (pandas, numpy), Java, SQL, HTML, JavaScript  
+- **Tools:** Excel (PivotTables, VBA), Tableau  
+- **Data Sources:** UK Biobank, CDC BRFSS  
+- **Languages:** English (Fluent), Mandarin (Native), Japanese (Conversational)
 
-## Professional Experience
+---
 
-**Ernst & Young**, Shanghai, China
-**Financial Analysis Intern (07/2023)**
+## Biostatistics & Analysis Experience
 
-- Collaborated on compiling and analyzing financial data for Intesa Sanpaolo S.p.A.
-- Developed Java-based solutions to improve financial workflow efficiency, reducing processing time by 50%.
+**Breast Cancer Survival Modeling Project – Columbia University** *(Oct 2024 – Dec 2024)*  
+*Team Leader*  
+- Built and compared logistic and Cox survival models in **R** using clinical data (4,000+ records), identifying key mortality predictors.  
+- Led survival analysis, model selection (AIC/BIC), assumption testing, and fairness evaluation across racial subgroups.
 
-**Noah Holdings**, Hangzhou, China
-**Advisory Assistant (06/2022 - 08/2022)**
+**Statistical Data Science for Public Health and Biomedicine – Columbia University** *(Jul 2023 – Aug 2023)*  
+*Research Assistant*  
+- Analyzed the **UK Biobank** (500,000+ records) using **R** to model insomnia and anxiety predictors.  
+- Applied Bayesian logistic regression, causal inference, and random forests to generate early intervention strategies.
 
-- Executed in-depth analysis of client financial needs and risk profiles.
-- Facilitated leadership in budgeting projects totaling over $20,000.
-- **Award:** Honor Intern, Honor Team Leader.
+**MOCOVI Research Group – Boston University** *(Jan 2023 – May 2024)*  
+*Research Assistant*  
+- Analyzed 445,000+ CDC BRFSS records using **R** and **Excel VBA** to identify behavioral predictors of Type 2 Diabetes.  
+- Visualized findings with Tableau; presented at 3+ public health conferences.
 
-# Research Experience
+**Marketing Case Competition – BU Marketing Club** *(Sep 2021 – Dec 2021)*  
+*Team Leader*  
+- Led market analysis of Mary Kay; performed trend segmentation in **Python** and proposed strategies to enhance appeal to younger consumers.
 
-**Columbia University** (07/2023 - 08/2023)    
-**Statistical Researcher**
+**COMAP Mathematical Contest in Modeling**  
+- *Team Member* *(Mar – Apr 2023)*: Built predictive pricing models in **R** with web-scraped data and visualizations in Tableau.  
+- *Team Leader (Honorable Mention)* *(Feb – Mar 2023)*: Modeled drought impacts on plant ecosystems using multivariate **Python** models.
 
-- Developed statistical models using UK Biobank data, analyzing insomnia and diabetes correlations.
+---
 
-**Boston University** (01/2023 - 05/2024)     
-**Statistical Researcher at MOCOVI Research Group**
+## Consulting & Industry Experience
 
-- Analyzed health datasets and visualized findings using R and Tableau.
-- Presented results on Type 2 Diabetes correlations at three conferences.
+**Ernst & Young**, Shanghai, China *(Jul 2023)*  
+*Financial Analysis Intern*  
+- Analyzed financial data for Intesa Sanpaolo’s semi-annual audit.  
+- Developed a **Java** tool to automate report formatting, reducing processing time by 50%.
 
-# Leadership Experience
+**Noah Holdings**, Hangzhou, China *(Jun 2022 – Aug 2022)*  
+*Advisory Assistant*  
+- Conducted financial risk analysis and pre-investment planning for 5+ clients.  
+- Co-led financial literacy campaign across 43 business groups; secured $20,000+ funding.  
+- **Award:** Honor Intern & Honor Team Leader
 
-**Teaching Assistant**: Boston University (10/2023 - 05/2024)      
-**Executive Board Member**: BU Mathematical Association of America Chapter (05/2021 - 05/2024)      
-**Peer Mentor**: BU CGS (09/2022 - 05/2024)     
- 
-# Additional Experience
+**ICBC Data Center**, Shanghai, China *(Aug 2023)*  
+*Data Analyst Intern*  
+- Researched global generative AI & LLM applications; authored internal white paper.  
+- Scraped and synthesized industry reports to inform AI assistant product strategy.
 
-**Gold Key Real Estate**, Osaka, Japan      
-**Sales Assistant** (05/2022 - 06/2022)
+---
 
-**Qingdao Haitong Garment**, Qingdao, China      
-**Salesperson** (08/2020 - 08/2021)
+## Additional Experience
 
-You can also download my resume in [here](resource/Resume-Shiying Wu 2024.pdf)
+**Gold Key Real Estate**, Osaka, Japan *(May – Jun 2022)*  
+*Sales Assistant*
+
+**Qingdao Haitong Garment**, Qingdao, China *(Aug 2020 – Aug 2021)*  
+*Salesperson*
+
+You can also download my resume in [here](resource/Resume-Shiying Wu.pdf)
