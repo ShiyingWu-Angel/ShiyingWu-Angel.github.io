@@ -18,5 +18,6 @@ Feel free to explore, and reach out if you’d like to collaborate or discuss an
 
 If you'd like to learn more about this website, visit [this page](https://github.com/ShiyingWu-Angel/ShiyingWu-Angel.github.io).
 
-Me graduating from Hogwarts 
-![](resource/Hogwarts.jpeg)
+Me graduating from Columbia University
+![](resource/image/Chess.jpeg)
+![](resource/image/graduate.jpeg)
