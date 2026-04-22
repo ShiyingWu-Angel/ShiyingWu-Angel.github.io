@@ -1,0 +1,128 @@
+
+---
+title: "Projects"
+output: html_document
+---
+
+<style>
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(280px, 1fr));
+  gap: 28px;
+  margin-top: 30px;
+}
+
+.project-card {
+  border: 1px solid #e5e5e5;
+  border-radius: 14px;
+  overflow: hidden;
+  background-color: white;
+  box-shadow: 0 4px 14px rgba(0, 0, 0, 0.08);
+  transition: transform 0.2s ease, box-shadow 0.2s ease;
+}
+
+.project-card:hover {
+  transform: translateY(-6px);
+  box-shadow: 0 8px 22px rgba(0, 0, 0, 0.14);
+}
+
+.project-card a {
+  text-decoration: none;
+  color: inherit;
+}
+
+.project-image {
+  width: 100%;
+  height: 220px;
+  object-fit: cover;
+  display: block;
+}
+
+.project-content {
+  padding: 18px;
+}
+
+.project-title {
+  font-size: 22px;
+  font-weight: 700;
+  margin-bottom: 10px;
+  color: #1f3c5a;
+}
+
+.project-text {
+  font-size: 15px;
+  line-height: 1.6;
+  color: #444;
+}
+
+.project-tag {
+  display: inline-block;
+  margin-top: 12px;
+  margin-right: 8px;
+  padding: 4px 10px;
+  border-radius: 999px;
+  background-color: #eef4fb;
+  color: #2f5d87;
+  font-size: 12px;
+  font-weight: 600;
+}
+</style>
+
+# Projects
+
+Here are selected projects in data science, biostatistics, and interactive application development.
+
+<div class="project-grid">
+
+<div class="project-card">
+<a href="yelp_project.html">
+<img src="resource/image/yelp-top-100-us-restaurants.jpeg" alt="Pennsylvania Yelp Restaurant Analysis" class="project-image">
+</a>
+<div class="project-content">
+<div class="project-title">
+<a href="yelp_project.html">Pennsylvania Yelp Restaurant Analysis & Finder</a>
+</div>
+<div class="project-text">
+A team project combining Yelp restaurant data analysis with an interactive Shiny app for restaurant search by city, time, cuisine, price, and rating.
+</div>
+<span class="project-tag">R</span>
+<span class="project-tag">Shiny</span>
+<span class="project-tag">Data Visualization</span>
+</div>
+</div>
+
+<div class="project-card">
+<a href="dashboard.html">
+<img src="resource/images/dashboard.png" alt="Interactive Dashboard" class="project-image">
+</a>
+<div class="project-content">
+<div class="project-title">
+<a href="dashboard.html">Interactive Dashboard Example</a>
+</div>
+<div class="project-text">
+An R-based dashboard with interactive visualizations demonstrating summary statistics, temporal patterns, and distributional comparisons.
+</div>
+<span class="project-tag">Plotly</span>
+<span class="project-tag">R Markdown</span>
+<span class="project-tag">Dashboard</span>
+</div>
+</div>
+
+<div class="project-card">
+<a href="about.html">
+<img src="resource/images/coming_soon.png" alt="Biostatistics Projects Coming Soon" class="project-image">
+</a>
+<div class="project-content">
+<div class="project-title">
+<a href="about.html">Biostatistics & Clinical Data Projects</a>
+</div>
+<div class="project-text">
+More projects in survival analysis, clinical data science, and public health analytics will be added here.
+</div>
+<span class="project-tag">Biostatistics</span>
+<span class="project-tag">Clinical Data</span>
+<span class="project-tag">Coming Soon</span>
+</div>
+</div>
+
+</div>
