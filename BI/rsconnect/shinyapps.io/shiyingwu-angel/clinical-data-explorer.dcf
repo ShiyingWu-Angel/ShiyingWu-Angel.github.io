@@ -1,0 +1,10 @@
+name: clinical-data-explorer
+title:
+username: shiyingwu-angel
+account: shiyingwu-angel
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 17224947
+bundleId: 11903416
+url: https://shiyingwu-angel.shinyapps.io/clinical-data-explorer/
+version: 1

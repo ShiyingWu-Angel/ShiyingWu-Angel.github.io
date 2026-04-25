@@ -85,26 +85,29 @@ Here are selected projects in data science, biostatistics, and interactive appli
 <div class="project-text">
 A team project combining Yelp restaurant data analysis with an interactive Shiny app for restaurant search by city, time, cuisine, price, and rating.
 </div>
-<span class="project-tag">R</span>
-<span class="project-tag">Shiny</span>
+<span class="project-tag">R Shiny</span>
+<span class="project-tag">Statistical Model</span>
 <span class="project-tag">Data Visualization</span>
 </div>
 </div>
 
 <div class="project-card">
-<a href="dashboard.html">
-<img src="resource/images/dashboard.png" alt="Interactive Dashboard" class="project-image">
+<a href="https://shiyingwu-angel.shinyapps.io/clinical-data-explorer/" target="_blank">
+<img src="resource/image/shinyapp1.jpeg" alt="Clinical Data Explorer" class="project-image">
 </a>
 <div class="project-content">
 <div class="project-title">
-<a href="dashboard.html">Interactive Dashboard Example</a>
+<a href="https://shiyingwu-angel.shinyapps.io/clinical-data-explorer/" target="_blank">
+Clinical Data Explorer (R Shiny)
+</a>
 </div>
 <div class="project-text">
-An R-based dashboard with interactive visualizations demonstrating summary statistics, temporal patterns, and distributional comparisons.
+An interactive clinical data exploration tool built with R Shiny, supporting patient-level visualization, safety review, and longitudinal analysis across multiple clinical domains.
 </div>
-<span class="project-tag">Plotly</span>
-<span class="project-tag">R Markdown</span>
-<span class="project-tag">Dashboard</span>
+<span class="project-tag">R Shiny</span>
+<span class="project-tag">Clinical Data</span>
+<span class="project-tag">CDISC SDTM</span>
+<span class="project-tag">Data Visualization</span>
 </div>
 </div>
 

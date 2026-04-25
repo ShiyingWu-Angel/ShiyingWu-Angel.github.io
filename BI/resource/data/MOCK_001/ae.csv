@@ -1,0 +1,240 @@
+STUDYID,USUBJID,AESEQ,AESOC,AEBODSYS,AEDECOD,AETERM,AESER,AEREL,AETOXGR,AESTDY,AEENDY,AESTDTC,AEENDTC,AECONTRT,AEACN
+MOCK_001,MOCK_001-001,1,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,RELATED,1,71,82,2025-03-12T08:00,2025-03-23T08:00,NONE,NONE
+MOCK_001,MOCK_001-001,2,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,N,NOT RELATED,1,45,51,2025-02-14T08:00,2025-02-20T08:00,NONE,DOSE REDUCED
+MOCK_001,MOCK_001-001,3,General disorders,General disorders,Fatigue,Fatigue,N,RELATED,1,48,59,2025-02-17T08:00,2025-02-28T08:00,NONE,DRUG INTERRUPTED
+MOCK_001,MOCK_001-001,4,Skin disorders,Skin disorders,Rash,Rash,N,RELATED,3,40,41,2025-02-09T08:00,2025-02-10T08:00,NONE,DOSE REDUCED
+MOCK_001,MOCK_001-002,1,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,N,NOT RELATED,1,64,67,2025-03-05T08:00,2025-03-08T08:00,NONE,NONE
+MOCK_001,MOCK_001-002,2,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,NOT RELATED,1,12,23,2025-01-12T08:00,2025-01-23T08:00,NONE,DOSE REDUCED
+MOCK_001,MOCK_001-002,3,General disorders,General disorders,Fatigue,Fatigue,N,NOT RELATED,1,7,12,2025-01-07T08:00,2025-01-12T08:00,NONE,DRUG INTERRUPTED
+MOCK_001,MOCK_001-003,1,General disorders,General disorders,Fatigue,Fatigue,N,NOT RELATED,3,56,68,2025-02-25T08:00,2025-03-09T08:00,DRUG WITHDRAWN,NONE
+MOCK_001,MOCK_001-003,2,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,NOT RELATED,3,25,27,2025-01-25T08:00,2025-01-27T08:00,NONE,DRUG INTERRUPTED
+MOCK_001,MOCK_001-003,3,Skin disorders,Skin disorders,Rash,Rash,N,RELATED,1,14,16,2025-01-14T08:00,2025-01-16T08:00,DOSE INTERRUPTED,DRUG INTERRUPTED
+MOCK_001,MOCK_001-003,4,General disorders,General disorders,Fatigue,Fatigue,N,NOT RELATED,2,42,50,2025-02-11T08:00,2025-02-19T08:00,DOSE REDUCED,DOSE REDUCED
+MOCK_001,MOCK_001-003,5,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,RELATED,1,65,76,2025-03-06T08:00,2025-03-17T08:00,DOSE REDUCED,DRUG INTERRUPTED
+MOCK_001,MOCK_001-004,1,General disorders,General disorders,Fatigue,Fatigue,N,RELATED,3,26,33,2025-01-26T08:00,2025-02-02T08:00,DOSE REDUCED,NONE
+MOCK_001,MOCK_001-004,2,Blood disorders,Blood disorders,Anemia,Anemia,N,NOT RELATED,2,42,50,2025-02-11T08:00,2025-02-19T08:00,DRUG WITHDRAWN,DOSE REDUCED
+MOCK_001,MOCK_001-004,3,Investigations,Investigations,Alanine aminotransferase increased,Alanine aminotransferase increased,N,RELATED,1,13,24,2025-01-13T08:00,2025-01-24T08:00,DRUG WITHDRAWN,NONE
+MOCK_001,MOCK_001-004,4,Skin disorders,Skin disorders,Rash,Rash,N,NOT RELATED,1,17,22,2025-01-17T08:00,2025-01-22T08:00,NONE,DRUG WITHDRAWN
+MOCK_001,MOCK_001-004,5,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,N,RELATED,3,32,35,2025-02-01T08:00,2025-02-04T08:00,DRUG WITHDRAWN,NONE
+MOCK_001,MOCK_001-005,1,General disorders,General disorders,Fatigue,Fatigue,N,NOT RELATED,1,7,10,2025-01-07T08:00,2025-01-10T08:00,DOSE REDUCED,NONE
+MOCK_001,MOCK_001-005,2,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,N,RELATED,1,8,19,2025-01-08T08:00,2025-01-19T08:00,NONE,NONE
+MOCK_001,MOCK_001-005,3,Skin disorders,Skin disorders,Rash,Rash,N,NOT RELATED,1,22,28,2025-01-22T08:00,2025-01-28T08:00,DOSE REDUCED,DRUG WITHDRAWN
+MOCK_001,MOCK_001-006,1,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,RELATED,1,46,52,2025-02-15T08:00,2025-02-21T08:00,NONE,DOSE REDUCED
+MOCK_001,MOCK_001-006,2,General disorders,General disorders,Fatigue,Fatigue,N,RELATED,2,29,35,2025-01-29T08:00,2025-02-04T08:00,NONE,DRUG INTERRUPTED
+MOCK_001,MOCK_001-006,3,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,NOT RELATED,1,4,17,2025-01-04T08:00,2025-01-17T08:00,DOSE REDUCED,NONE
+MOCK_001,MOCK_001-007,1,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,RELATED,1,55,59,2025-02-24T08:00,2025-02-28T08:00,NONE,DOSE REDUCED
+MOCK_001,MOCK_001-007,2,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,NOT RELATED,3,36,47,2025-02-05T08:00,2025-02-16T08:00,DRUG WITHDRAWN,NONE
+MOCK_001,MOCK_001-007,3,General disorders,General disorders,Fatigue,Fatigue,N,NOT RELATED,1,46,54,2025-02-15T08:00,2025-02-23T08:00,DOSE INTERRUPTED,NONE
+MOCK_001,MOCK_001-008,1,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,RELATED,1,77,88,2025-03-18T08:00,2025-03-29T08:00,NONE,DRUG WITHDRAWN
+MOCK_001,MOCK_001-008,2,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,N,RELATED,1,44,47,2025-02-13T08:00,2025-02-16T08:00,NONE,NONE
+MOCK_001,MOCK_001-008,3,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,N,NOT RELATED,1,21,24,2025-01-21T08:00,2025-01-24T08:00,NONE,DOSE REDUCED
+MOCK_001,MOCK_001-008,4,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,NOT RELATED,1,17,19,2025-01-17T08:00,2025-01-19T08:00,NONE,NONE
+MOCK_001,MOCK_001-009,1,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,RELATED,1,70,76,2025-03-11T08:00,2025-03-17T08:00,NONE,DOSE REDUCED
+MOCK_001,MOCK_001-009,2,Blood disorders,Blood disorders,Anemia,Anemia,N,NOT RELATED,2,27,29,2025-01-27T08:00,2025-01-29T08:00,NONE,NONE
+MOCK_001,MOCK_001-009,3,Blood disorders,Blood disorders,Anemia,Anemia,N,RELATED,1,22,28,2025-01-22T08:00,2025-01-28T08:00,NONE,NONE
+MOCK_001,MOCK_001-009,4,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,RELATED,1,68,69,2025-03-09T08:00,2025-03-10T08:00,DOSE INTERRUPTED,NONE
+MOCK_001,MOCK_001-009,5,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,RELATED,1,53,59,2025-02-22T08:00,2025-02-28T08:00,DOSE INTERRUPTED,NONE
+MOCK_001,MOCK_001-010,1,General disorders,General disorders,Fatigue,Fatigue,N,RELATED,1,52,61,2025-02-21T08:00,2025-03-02T08:00,DRUG WITHDRAWN,NONE
+MOCK_001,MOCK_001-010,2,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,N,RELATED,1,67,74,2025-03-08T08:00,2025-03-15T08:00,DRUG WITHDRAWN,DOSE REDUCED
+MOCK_001,MOCK_001-010,3,Blood disorders,Blood disorders,Anemia,Anemia,N,NOT RELATED,2,4,11,2025-01-04T08:00,2025-01-11T08:00,NONE,DRUG INTERRUPTED
+MOCK_001,MOCK_001-010,4,Skin disorders,Skin disorders,Rash,Rash,N,RELATED,1,79,87,2025-03-20T08:00,2025-03-28T08:00,NONE,NONE
+MOCK_001,MOCK_001-011,1,General disorders,General disorders,Fatigue,Fatigue,N,NOT RELATED,3,66,77,2025-03-07T08:00,2025-03-18T08:00,DOSE INTERRUPTED,NONE
+MOCK_001,MOCK_001-011,2,General disorders,General disorders,Fatigue,Fatigue,N,RELATED,1,12,18,2025-01-12T08:00,2025-01-18T08:00,NONE,DRUG WITHDRAWN
+MOCK_001,MOCK_001-011,3,Investigations,Investigations,Alanine aminotransferase increased,Alanine aminotransferase increased,N,RELATED,1,20,31,2025-01-20T08:00,2025-01-31T08:00,DOSE INTERRUPTED,DOSE REDUCED
+MOCK_001,MOCK_001-011,4,Investigations,Investigations,Alanine aminotransferase increased,Alanine aminotransferase increased,N,RELATED,2,58,62,2025-02-27T08:00,2025-03-03T08:00,DOSE INTERRUPTED,DRUG WITHDRAWN
+MOCK_001,MOCK_001-011,5,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,RELATED,1,37,41,2025-02-06T08:00,2025-02-10T08:00,DRUG WITHDRAWN,NONE
+MOCK_001,MOCK_001-012,1,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,RELATED,2,74,86,2025-03-15T08:00,2025-03-27T08:00,NONE,NONE
+MOCK_001,MOCK_001-012,2,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,Y,RELATED,1,9,12,2025-01-09T08:00,2025-01-12T08:00,DRUG WITHDRAWN,NONE
+MOCK_001,MOCK_001-012,3,General disorders,General disorders,Fatigue,Fatigue,N,NOT RELATED,1,37,43,2025-02-06T08:00,2025-02-12T08:00,NONE,NONE
+MOCK_001,MOCK_001-012,4,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,N,NOT RELATED,1,41,50,2025-02-10T08:00,2025-02-19T08:00,DOSE REDUCED,NONE
+MOCK_001,MOCK_001-013,1,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,N,NOT RELATED,1,23,24,2025-01-23T08:00,2025-01-24T08:00,NONE,DOSE REDUCED
+MOCK_001,MOCK_001-013,2,General disorders,General disorders,Fatigue,Fatigue,N,RELATED,1,5,8,2025-01-05T08:00,2025-01-08T08:00,NONE,NONE
+MOCK_001,MOCK_001-013,3,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,N,NOT RELATED,1,68,80,2025-03-09T08:00,2025-03-21T08:00,NONE,DOSE REDUCED
+MOCK_001,MOCK_001-013,4,Blood disorders,Blood disorders,Anemia,Anemia,N,RELATED,2,79,92,2025-03-20T08:00,2025-04-02T08:00,DOSE INTERRUPTED,NONE
+MOCK_001,MOCK_001-013,5,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,RELATED,1,45,53,2025-02-14T08:00,2025-02-22T08:00,DOSE REDUCED,NONE
+MOCK_001,MOCK_001-014,1,Skin disorders,Skin disorders,Rash,Rash,N,RELATED,1,37,48,2025-02-06T08:00,2025-02-17T08:00,DOSE REDUCED,NONE
+MOCK_001,MOCK_001-014,2,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,Y,RELATED,2,16,29,2025-01-16T08:00,2025-01-29T08:00,NONE,NONE
+MOCK_001,MOCK_001-014,3,General disorders,General disorders,Fatigue,Fatigue,N,RELATED,1,62,75,2025-03-03T08:00,2025-03-16T08:00,NONE,DRUG WITHDRAWN
+MOCK_001,MOCK_001-014,4,General disorders,General disorders,Fatigue,Fatigue,N,RELATED,1,57,58,2025-02-26T08:00,2025-02-27T08:00,NONE,NONE
+MOCK_001,MOCK_001-014,5,Skin disorders,Skin disorders,Rash,Rash,N,RELATED,1,22,30,2025-01-22T08:00,2025-01-30T08:00,NONE,DOSE REDUCED
+MOCK_001,MOCK_001-015,1,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,RELATED,1,65,72,2025-03-06T08:00,2025-03-13T08:00,DRUG WITHDRAWN,DRUG INTERRUPTED
+MOCK_001,MOCK_001-015,2,Skin disorders,Skin disorders,Rash,Rash,N,NOT RELATED,2,34,36,2025-02-03T08:00,2025-02-05T08:00,DOSE REDUCED,DOSE REDUCED
+MOCK_001,MOCK_001-015,3,General disorders,General disorders,Fatigue,Fatigue,N,NOT RELATED,2,16,30,2025-01-16T08:00,2025-01-30T08:00,DRUG WITHDRAWN,NONE
+MOCK_001,MOCK_001-015,4,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,N,RELATED,2,35,40,2025-02-04T08:00,2025-02-09T08:00,NONE,DOSE REDUCED
+MOCK_001,MOCK_001-016,1,Skin disorders,Skin disorders,Rash,Rash,Y,RELATED,1,59,68,2025-02-28T08:00,2025-03-09T08:00,NONE,NONE
+MOCK_001,MOCK_001-016,2,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,N,RELATED,1,40,53,2025-02-09T08:00,2025-02-22T08:00,DOSE INTERRUPTED,NONE
+MOCK_001,MOCK_001-016,3,General disorders,General disorders,Fatigue,Fatigue,N,RELATED,1,40,41,2025-02-09T08:00,2025-02-10T08:00,NONE,DOSE REDUCED
+MOCK_001,MOCK_001-016,4,Investigations,Investigations,Alanine aminotransferase increased,Alanine aminotransferase increased,N,RELATED,2,74,79,2025-03-15T08:00,2025-03-20T08:00,NONE,DRUG WITHDRAWN
+MOCK_001,MOCK_001-016,5,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,N,NOT RELATED,1,63,75,2025-03-04T08:00,2025-03-16T08:00,DRUG WITHDRAWN,DRUG INTERRUPTED
+MOCK_001,MOCK_001-017,1,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,RELATED,1,52,59,2025-02-21T08:00,2025-02-28T08:00,NONE,NONE
+MOCK_001,MOCK_001-017,2,Investigations,Investigations,Alanine aminotransferase increased,Alanine aminotransferase increased,N,RELATED,2,1,2,2025-01-01T08:00,2025-01-02T08:00,NONE,DRUG INTERRUPTED
+MOCK_001,MOCK_001-017,3,Investigations,Investigations,Alanine aminotransferase increased,Alanine aminotransferase increased,N,RELATED,1,19,31,2025-01-19T08:00,2025-01-31T08:00,NONE,NONE
+MOCK_001,MOCK_001-017,4,Blood disorders,Blood disorders,Anemia,Anemia,N,NOT RELATED,1,37,45,2025-02-06T08:00,2025-02-14T08:00,NONE,DRUG INTERRUPTED
+MOCK_001,MOCK_001-017,5,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,RELATED,2,79,81,2025-03-20T08:00,2025-03-22T08:00,DOSE REDUCED,NONE
+MOCK_001,MOCK_001-018,1,Blood disorders,Blood disorders,Anemia,Anemia,Y,NOT RELATED,3,40,46,2025-02-09T08:00,2025-02-15T08:00,DOSE INTERRUPTED,NONE
+MOCK_001,MOCK_001-018,2,General disorders,General disorders,Fatigue,Fatigue,N,RELATED,2,10,23,2025-01-10T08:00,2025-01-23T08:00,NONE,NONE
+MOCK_001,MOCK_001-018,3,General disorders,General disorders,Fatigue,Fatigue,N,RELATED,3,32,43,2025-02-01T08:00,2025-02-12T08:00,DRUG WITHDRAWN,NONE
+MOCK_001,MOCK_001-019,1,Blood disorders,Blood disorders,Anemia,Anemia,N,RELATED,1,12,22,2025-01-12T08:00,2025-01-22T08:00,NONE,NONE
+MOCK_001,MOCK_001-019,2,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,Y,RELATED,1,45,50,2025-02-14T08:00,2025-02-19T08:00,NONE,DRUG INTERRUPTED
+MOCK_001,MOCK_001-019,3,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,N,RELATED,3,38,48,2025-02-07T08:00,2025-02-17T08:00,DRUG WITHDRAWN,NONE
+MOCK_001,MOCK_001-019,4,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,NOT RELATED,1,56,62,2025-02-25T08:00,2025-03-03T08:00,DRUG WITHDRAWN,DOSE REDUCED
+MOCK_001,MOCK_001-020,1,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,RELATED,1,70,79,2025-03-11T08:00,2025-03-20T08:00,DRUG WITHDRAWN,NONE
+MOCK_001,MOCK_001-020,2,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,NOT RELATED,1,27,28,2025-01-27T08:00,2025-01-28T08:00,NONE,DRUG INTERRUPTED
+MOCK_001,MOCK_001-020,3,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,RELATED,3,29,43,2025-01-29T08:00,2025-02-12T08:00,DOSE REDUCED,NONE
+MOCK_001,MOCK_001-021,1,General disorders,General disorders,Fatigue,Fatigue,N,RELATED,1,23,29,2025-01-23T08:00,2025-01-29T08:00,DOSE REDUCED,NONE
+MOCK_001,MOCK_001-021,2,Skin disorders,Skin disorders,Rash,Rash,N,NOT RELATED,2,78,89,2025-03-19T08:00,2025-03-30T08:00,NONE,NONE
+MOCK_001,MOCK_001-021,3,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,Y,RELATED,1,38,39,2025-02-07T08:00,2025-02-08T08:00,NONE,DRUG WITHDRAWN
+MOCK_001,MOCK_001-022,1,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,NOT RELATED,1,72,80,2025-03-13T08:00,2025-03-21T08:00,NONE,DRUG WITHDRAWN
+MOCK_001,MOCK_001-022,2,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,N,NOT RELATED,1,4,10,2025-01-04T08:00,2025-01-10T08:00,DRUG WITHDRAWN,NONE
+MOCK_001,MOCK_001-022,3,General disorders,General disorders,Fatigue,Fatigue,N,NOT RELATED,1,1,13,2025-01-01T08:00,2025-01-13T08:00,NONE,DRUG WITHDRAWN
+MOCK_001,MOCK_001-022,4,Skin disorders,Skin disorders,Rash,Rash,N,NOT RELATED,1,71,76,2025-03-12T08:00,2025-03-17T08:00,NONE,NONE
+MOCK_001,MOCK_001-023,1,Skin disorders,Skin disorders,Rash,Rash,N,RELATED,2,48,57,2025-02-17T08:00,2025-02-26T08:00,NONE,DOSE REDUCED
+MOCK_001,MOCK_001-023,2,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,N,RELATED,1,27,36,2025-01-27T08:00,2025-02-05T08:00,NONE,NONE
+MOCK_001,MOCK_001-023,3,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,RELATED,1,70,84,2025-03-11T08:00,2025-03-25T08:00,NONE,DRUG INTERRUPTED
+MOCK_001,MOCK_001-023,4,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,N,RELATED,1,71,75,2025-03-12T08:00,2025-03-16T08:00,NONE,NONE
+MOCK_001,MOCK_001-024,1,General disorders,General disorders,Fatigue,Fatigue,N,RELATED,3,10,21,2025-01-10T08:00,2025-01-21T08:00,DOSE REDUCED,NONE
+MOCK_001,MOCK_001-024,2,General disorders,General disorders,Fatigue,Fatigue,N,RELATED,3,48,50,2025-02-17T08:00,2025-02-19T08:00,DOSE INTERRUPTED,DOSE REDUCED
+MOCK_001,MOCK_001-024,3,Blood disorders,Blood disorders,Anemia,Anemia,N,NOT RELATED,2,65,71,2025-03-06T08:00,2025-03-12T08:00,NONE,DRUG INTERRUPTED
+MOCK_001,MOCK_001-025,1,General disorders,General disorders,Fatigue,Fatigue,N,RELATED,1,38,45,2025-02-07T08:00,2025-02-14T08:00,DOSE REDUCED,NONE
+MOCK_001,MOCK_001-025,2,Blood disorders,Blood disorders,Anemia,Anemia,N,NOT RELATED,1,9,23,2025-01-09T08:00,2025-01-23T08:00,NONE,DOSE REDUCED
+MOCK_001,MOCK_001-025,3,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,N,RELATED,1,24,37,2025-01-24T08:00,2025-02-06T08:00,DOSE INTERRUPTED,DRUG WITHDRAWN
+MOCK_001,MOCK_001-025,4,Skin disorders,Skin disorders,Rash,Rash,N,RELATED,1,67,68,2025-03-08T08:00,2025-03-09T08:00,NONE,NONE
+MOCK_001,MOCK_001-025,5,Blood disorders,Blood disorders,Anemia,Anemia,N,RELATED,2,19,28,2025-01-19T08:00,2025-01-28T08:00,NONE,NONE
+MOCK_001,MOCK_001-026,1,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,RELATED,1,12,25,2025-01-12T08:00,2025-01-25T08:00,NONE,NONE
+MOCK_001,MOCK_001-026,2,Blood disorders,Blood disorders,Anemia,Anemia,N,NOT RELATED,2,26,38,2025-01-26T08:00,2025-02-07T08:00,DOSE INTERRUPTED,NONE
+MOCK_001,MOCK_001-026,3,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,N,RELATED,1,34,48,2025-02-03T08:00,2025-02-17T08:00,DOSE INTERRUPTED,NONE
+MOCK_001,MOCK_001-026,4,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,NOT RELATED,2,68,69,2025-03-09T08:00,2025-03-10T08:00,NONE,NONE
+MOCK_001,MOCK_001-027,1,Skin disorders,Skin disorders,Rash,Rash,N,NOT RELATED,1,53,59,2025-02-22T08:00,2025-02-28T08:00,DRUG WITHDRAWN,NONE
+MOCK_001,MOCK_001-027,2,General disorders,General disorders,Fatigue,Fatigue,N,NOT RELATED,1,66,75,2025-03-07T08:00,2025-03-16T08:00,NONE,NONE
+MOCK_001,MOCK_001-027,3,Blood disorders,Blood disorders,Anemia,Anemia,N,RELATED,1,53,57,2025-02-22T08:00,2025-02-26T08:00,NONE,DRUG INTERRUPTED
+MOCK_001,MOCK_001-027,4,Investigations,Investigations,Alanine aminotransferase increased,Alanine aminotransferase increased,N,RELATED,1,75,80,2025-03-16T08:00,2025-03-21T08:00,DRUG WITHDRAWN,NONE
+MOCK_001,MOCK_001-027,5,Investigations,Investigations,Alanine aminotransferase increased,Alanine aminotransferase increased,N,RELATED,2,73,82,2025-03-14T08:00,2025-03-23T08:00,NONE,NONE
+MOCK_001,MOCK_001-028,1,Skin disorders,Skin disorders,Rash,Rash,N,RELATED,1,17,25,2025-01-17T08:00,2025-01-25T08:00,NONE,DRUG WITHDRAWN
+MOCK_001,MOCK_001-028,2,General disorders,General disorders,Fatigue,Fatigue,N,NOT RELATED,2,10,15,2025-01-10T08:00,2025-01-15T08:00,DOSE INTERRUPTED,DOSE REDUCED
+MOCK_001,MOCK_001-028,3,Investigations,Investigations,Alanine aminotransferase increased,Alanine aminotransferase increased,N,NOT RELATED,1,28,29,2025-01-28T08:00,2025-01-29T08:00,DRUG WITHDRAWN,NONE
+MOCK_001,MOCK_001-028,4,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,N,RELATED,1,70,79,2025-03-11T08:00,2025-03-20T08:00,NONE,NONE
+MOCK_001,MOCK_001-029,1,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,N,NOT RELATED,2,19,22,2025-01-19T08:00,2025-01-22T08:00,DOSE INTERRUPTED,NONE
+MOCK_001,MOCK_001-029,2,Blood disorders,Blood disorders,Anemia,Anemia,N,NOT RELATED,3,38,44,2025-02-07T08:00,2025-02-13T08:00,NONE,DRUG INTERRUPTED
+MOCK_001,MOCK_001-029,3,General disorders,General disorders,Fatigue,Fatigue,N,NOT RELATED,1,6,18,2025-01-06T08:00,2025-01-18T08:00,NONE,DRUG INTERRUPTED
+MOCK_001,MOCK_001-029,4,Skin disorders,Skin disorders,Rash,Rash,Y,RELATED,1,43,55,2025-02-12T08:00,2025-02-24T08:00,DOSE INTERRUPTED,NONE
+MOCK_001,MOCK_001-029,5,Blood disorders,Blood disorders,Anemia,Anemia,N,RELATED,1,42,46,2025-02-11T08:00,2025-02-15T08:00,NONE,DRUG WITHDRAWN
+MOCK_001,MOCK_001-030,1,Investigations,Investigations,Alanine aminotransferase increased,Alanine aminotransferase increased,N,NOT RELATED,1,40,49,2025-02-09T08:00,2025-02-18T08:00,NONE,NONE
+MOCK_001,MOCK_001-030,2,Investigations,Investigations,Alanine aminotransferase increased,Alanine aminotransferase increased,N,NOT RELATED,1,75,85,2025-03-16T08:00,2025-03-26T08:00,DOSE REDUCED,DOSE REDUCED
+MOCK_001,MOCK_001-030,3,Blood disorders,Blood disorders,Anemia,Anemia,N,RELATED,1,22,30,2025-01-22T08:00,2025-01-30T08:00,NONE,DOSE REDUCED
+MOCK_001,MOCK_001-030,4,Investigations,Investigations,Alanine aminotransferase increased,Alanine aminotransferase increased,Y,NOT RELATED,1,3,11,2025-01-03T08:00,2025-01-11T08:00,DRUG WITHDRAWN,NONE
+MOCK_001,MOCK_001-031,1,Skin disorders,Skin disorders,Rash,Rash,N,NOT RELATED,1,16,29,2025-01-16T08:00,2025-01-29T08:00,DRUG WITHDRAWN,DRUG WITHDRAWN
+MOCK_001,MOCK_001-031,2,Blood disorders,Blood disorders,Anemia,Anemia,N,RELATED,2,32,41,2025-02-01T08:00,2025-02-10T08:00,DOSE INTERRUPTED,DRUG INTERRUPTED
+MOCK_001,MOCK_001-031,3,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,RELATED,2,32,40,2025-02-01T08:00,2025-02-09T08:00,NONE,DOSE REDUCED
+MOCK_001,MOCK_001-031,4,Skin disorders,Skin disorders,Rash,Rash,N,RELATED,2,24,27,2025-01-24T08:00,2025-01-27T08:00,DRUG WITHDRAWN,NONE
+MOCK_001,MOCK_001-032,1,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,N,NOT RELATED,2,33,39,2025-02-02T08:00,2025-02-08T08:00,DOSE REDUCED,DRUG WITHDRAWN
+MOCK_001,MOCK_001-032,2,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,NOT RELATED,3,33,45,2025-02-02T08:00,2025-02-14T08:00,NONE,NONE
+MOCK_001,MOCK_001-032,3,Blood disorders,Blood disorders,Anemia,Anemia,N,RELATED,2,23,36,2025-01-23T08:00,2025-02-05T08:00,DRUG WITHDRAWN,NONE
+MOCK_001,MOCK_001-032,4,Investigations,Investigations,Alanine aminotransferase increased,Alanine aminotransferase increased,N,RELATED,1,68,72,2025-03-09T08:00,2025-03-13T08:00,NONE,DOSE REDUCED
+MOCK_001,MOCK_001-033,1,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,RELATED,1,65,75,2025-03-06T08:00,2025-03-16T08:00,NONE,DRUG WITHDRAWN
+MOCK_001,MOCK_001-033,2,Blood disorders,Blood disorders,Anemia,Anemia,N,NOT RELATED,1,66,78,2025-03-07T08:00,2025-03-19T08:00,NONE,DRUG INTERRUPTED
+MOCK_001,MOCK_001-033,3,Blood disorders,Blood disorders,Anemia,Anemia,N,RELATED,2,50,62,2025-02-19T08:00,2025-03-03T08:00,NONE,NONE
+MOCK_001,MOCK_001-034,1,Investigations,Investigations,Alanine aminotransferase increased,Alanine aminotransferase increased,N,NOT RELATED,1,64,68,2025-03-05T08:00,2025-03-09T08:00,DOSE INTERRUPTED,DOSE REDUCED
+MOCK_001,MOCK_001-034,2,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,N,NOT RELATED,1,38,50,2025-02-07T08:00,2025-02-19T08:00,DRUG WITHDRAWN,DRUG INTERRUPTED
+MOCK_001,MOCK_001-034,3,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,RELATED,1,52,65,2025-02-21T08:00,2025-03-06T08:00,NONE,NONE
+MOCK_001,MOCK_001-035,1,Investigations,Investigations,Alanine aminotransferase increased,Alanine aminotransferase increased,N,RELATED,1,17,28,2025-01-17T08:00,2025-01-28T08:00,NONE,DOSE REDUCED
+MOCK_001,MOCK_001-035,2,Skin disorders,Skin disorders,Rash,Rash,N,NOT RELATED,2,11,25,2025-01-11T08:00,2025-01-25T08:00,NONE,NONE
+MOCK_001,MOCK_001-035,3,Blood disorders,Blood disorders,Anemia,Anemia,N,NOT RELATED,1,43,51,2025-02-12T08:00,2025-02-20T08:00,NONE,NONE
+MOCK_001,MOCK_001-035,4,General disorders,General disorders,Fatigue,Fatigue,N,RELATED,1,35,42,2025-02-04T08:00,2025-02-11T08:00,NONE,DRUG WITHDRAWN
+MOCK_001,MOCK_001-035,5,Blood disorders,Blood disorders,Anemia,Anemia,N,NOT RELATED,1,28,30,2025-01-28T08:00,2025-01-30T08:00,NONE,DOSE REDUCED
+MOCK_001,MOCK_001-036,1,General disorders,General disorders,Fatigue,Fatigue,Y,RELATED,2,32,39,2025-02-01T08:00,2025-02-08T08:00,NONE,DOSE REDUCED
+MOCK_001,MOCK_001-036,2,Skin disorders,Skin disorders,Rash,Rash,N,NOT RELATED,1,75,81,2025-03-16T08:00,2025-03-22T08:00,NONE,NONE
+MOCK_001,MOCK_001-036,3,Blood disorders,Blood disorders,Anemia,Anemia,N,RELATED,3,3,8,2025-01-03T08:00,2025-01-08T08:00,DOSE REDUCED,DOSE REDUCED
+MOCK_001,MOCK_001-036,4,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,RELATED,2,48,59,2025-02-17T08:00,2025-02-28T08:00,DOSE INTERRUPTED,NONE
+MOCK_001,MOCK_001-037,1,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,NOT RELATED,1,77,82,2025-03-18T08:00,2025-03-23T08:00,DOSE INTERRUPTED,DOSE REDUCED
+MOCK_001,MOCK_001-037,2,Blood disorders,Blood disorders,Anemia,Anemia,N,NOT RELATED,2,21,26,2025-01-21T08:00,2025-01-26T08:00,DOSE REDUCED,NONE
+MOCK_001,MOCK_001-037,3,Skin disorders,Skin disorders,Rash,Rash,N,RELATED,1,37,41,2025-02-06T08:00,2025-02-10T08:00,DOSE REDUCED,NONE
+MOCK_001,MOCK_001-038,1,General disorders,General disorders,Fatigue,Fatigue,N,RELATED,3,11,19,2025-01-11T08:00,2025-01-19T08:00,NONE,NONE
+MOCK_001,MOCK_001-038,2,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,N,RELATED,1,3,10,2025-01-03T08:00,2025-01-10T08:00,NONE,NONE
+MOCK_001,MOCK_001-038,3,Skin disorders,Skin disorders,Rash,Rash,N,RELATED,1,14,26,2025-01-14T08:00,2025-01-26T08:00,NONE,DOSE REDUCED
+MOCK_001,MOCK_001-038,4,Skin disorders,Skin disorders,Rash,Rash,N,NOT RELATED,1,61,74,2025-03-02T08:00,2025-03-15T08:00,NONE,DOSE REDUCED
+MOCK_001,MOCK_001-039,1,Skin disorders,Skin disorders,Rash,Rash,N,NOT RELATED,1,27,34,2025-01-27T08:00,2025-02-03T08:00,NONE,DRUG WITHDRAWN
+MOCK_001,MOCK_001-039,2,Skin disorders,Skin disorders,Rash,Rash,N,RELATED,1,6,10,2025-01-06T08:00,2025-01-10T08:00,NONE,NONE
+MOCK_001,MOCK_001-039,3,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,N,RELATED,2,52,64,2025-02-21T08:00,2025-03-05T08:00,DOSE INTERRUPTED,DRUG WITHDRAWN
+MOCK_001,MOCK_001-040,1,Investigations,Investigations,Alanine aminotransferase increased,Alanine aminotransferase increased,N,RELATED,1,59,73,2025-02-28T08:00,2025-03-14T08:00,DOSE REDUCED,DRUG WITHDRAWN
+MOCK_001,MOCK_001-040,2,Skin disorders,Skin disorders,Rash,Rash,N,RELATED,1,64,76,2025-03-05T08:00,2025-03-17T08:00,DRUG WITHDRAWN,NONE
+MOCK_001,MOCK_001-040,3,General disorders,General disorders,Fatigue,Fatigue,N,NOT RELATED,2,30,37,2025-01-30T08:00,2025-02-06T08:00,NONE,DRUG INTERRUPTED
+MOCK_001,MOCK_001-041,1,General disorders,General disorders,Fatigue,Fatigue,N,NOT RELATED,1,66,77,2025-03-07T08:00,2025-03-18T08:00,NONE,DRUG INTERRUPTED
+MOCK_001,MOCK_001-041,2,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,N,RELATED,1,9,13,2025-01-09T08:00,2025-01-13T08:00,DRUG WITHDRAWN,NONE
+MOCK_001,MOCK_001-041,3,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,N,RELATED,3,29,32,2025-01-29T08:00,2025-02-01T08:00,DRUG WITHDRAWN,DRUG WITHDRAWN
+MOCK_001,MOCK_001-042,1,Skin disorders,Skin disorders,Rash,Rash,N,RELATED,1,29,38,2025-01-29T08:00,2025-02-07T08:00,NONE,DRUG WITHDRAWN
+MOCK_001,MOCK_001-042,2,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,N,RELATED,2,51,63,2025-02-20T08:00,2025-03-04T08:00,NONE,DOSE REDUCED
+MOCK_001,MOCK_001-042,3,Blood disorders,Blood disorders,Anemia,Anemia,N,RELATED,3,27,35,2025-01-27T08:00,2025-02-04T08:00,DOSE INTERRUPTED,NONE
+MOCK_001,MOCK_001-043,1,Blood disorders,Blood disorders,Anemia,Anemia,N,RELATED,2,61,67,2025-03-02T08:00,2025-03-08T08:00,DOSE INTERRUPTED,DRUG INTERRUPTED
+MOCK_001,MOCK_001-043,2,Investigations,Investigations,Alanine aminotransferase increased,Alanine aminotransferase increased,N,RELATED,1,67,70,2025-03-08T08:00,2025-03-11T08:00,NONE,NONE
+MOCK_001,MOCK_001-043,3,Skin disorders,Skin disorders,Rash,Rash,Y,NOT RELATED,1,32,37,2025-02-01T08:00,2025-02-06T08:00,DOSE INTERRUPTED,NONE
+MOCK_001,MOCK_001-043,4,Skin disorders,Skin disorders,Rash,Rash,N,RELATED,1,39,47,2025-02-08T08:00,2025-02-16T08:00,NONE,DRUG WITHDRAWN
+MOCK_001,MOCK_001-043,5,Investigations,Investigations,Alanine aminotransferase increased,Alanine aminotransferase increased,N,NOT RELATED,1,77,79,2025-03-18T08:00,2025-03-20T08:00,NONE,DOSE REDUCED
+MOCK_001,MOCK_001-044,1,Blood disorders,Blood disorders,Anemia,Anemia,N,RELATED,1,2,7,2025-01-02T08:00,2025-01-07T08:00,DOSE REDUCED,NONE
+MOCK_001,MOCK_001-044,2,General disorders,General disorders,Fatigue,Fatigue,N,RELATED,1,23,31,2025-01-23T08:00,2025-01-31T08:00,DOSE INTERRUPTED,NONE
+MOCK_001,MOCK_001-044,3,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,NOT RELATED,1,16,29,2025-01-16T08:00,2025-01-29T08:00,NONE,DRUG WITHDRAWN
+MOCK_001,MOCK_001-044,4,General disorders,General disorders,Fatigue,Fatigue,N,NOT RELATED,1,16,19,2025-01-16T08:00,2025-01-19T08:00,DOSE INTERRUPTED,DRUG WITHDRAWN
+MOCK_001,MOCK_001-044,5,Blood disorders,Blood disorders,Anemia,Anemia,N,RELATED,1,18,27,2025-01-18T08:00,2025-01-27T08:00,DOSE INTERRUPTED,DRUG WITHDRAWN
+MOCK_001,MOCK_001-045,1,General disorders,General disorders,Fatigue,Fatigue,N,RELATED,2,58,61,2025-02-27T08:00,2025-03-02T08:00,DRUG WITHDRAWN,NONE
+MOCK_001,MOCK_001-045,2,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,N,RELATED,1,11,23,2025-01-11T08:00,2025-01-23T08:00,DRUG WITHDRAWN,DRUG INTERRUPTED
+MOCK_001,MOCK_001-045,3,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,RELATED,2,57,60,2025-02-26T08:00,2025-03-01T08:00,NONE,DOSE REDUCED
+MOCK_001,MOCK_001-046,1,General disorders,General disorders,Fatigue,Fatigue,N,NOT RELATED,1,76,82,2025-03-17T08:00,2025-03-23T08:00,DOSE REDUCED,DRUG INTERRUPTED
+MOCK_001,MOCK_001-046,2,Blood disorders,Blood disorders,Anemia,Anemia,Y,RELATED,2,41,52,2025-02-10T08:00,2025-02-21T08:00,DOSE INTERRUPTED,NONE
+MOCK_001,MOCK_001-046,3,General disorders,General disorders,Fatigue,Fatigue,N,RELATED,2,17,23,2025-01-17T08:00,2025-01-23T08:00,NONE,DOSE REDUCED
+MOCK_001,MOCK_001-046,4,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,NOT RELATED,3,12,20,2025-01-12T08:00,2025-01-20T08:00,DOSE INTERRUPTED,NONE
+MOCK_001,MOCK_001-047,1,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,RELATED,1,48,58,2025-02-17T08:00,2025-02-27T08:00,NONE,DRUG INTERRUPTED
+MOCK_001,MOCK_001-047,2,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,RELATED,1,76,86,2025-03-17T08:00,2025-03-27T08:00,NONE,DOSE REDUCED
+MOCK_001,MOCK_001-047,3,Blood disorders,Blood disorders,Anemia,Anemia,N,NOT RELATED,1,15,28,2025-01-15T08:00,2025-01-28T08:00,NONE,DRUG INTERRUPTED
+MOCK_001,MOCK_001-047,4,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,N,RELATED,1,36,47,2025-02-05T08:00,2025-02-16T08:00,NONE,NONE
+MOCK_001,MOCK_001-048,1,Investigations,Investigations,Alanine aminotransferase increased,Alanine aminotransferase increased,N,NOT RELATED,2,32,38,2025-02-01T08:00,2025-02-07T08:00,NONE,DRUG WITHDRAWN
+MOCK_001,MOCK_001-048,2,Blood disorders,Blood disorders,Anemia,Anemia,N,RELATED,2,22,32,2025-01-22T08:00,2025-02-01T08:00,NONE,DOSE REDUCED
+MOCK_001,MOCK_001-048,3,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,N,RELATED,1,31,32,2025-01-31T08:00,2025-02-01T08:00,NONE,NONE
+MOCK_001,MOCK_001-048,4,Skin disorders,Skin disorders,Rash,Rash,N,RELATED,1,14,21,2025-01-14T08:00,2025-01-21T08:00,DOSE REDUCED,DOSE REDUCED
+MOCK_001,MOCK_001-049,1,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,RELATED,1,55,69,2025-02-24T08:00,2025-03-10T08:00,DRUG WITHDRAWN,NONE
+MOCK_001,MOCK_001-049,2,Blood disorders,Blood disorders,Anemia,Anemia,Y,RELATED,3,42,47,2025-02-11T08:00,2025-02-16T08:00,DRUG WITHDRAWN,NONE
+MOCK_001,MOCK_001-049,3,Skin disorders,Skin disorders,Rash,Rash,N,RELATED,1,20,29,2025-01-20T08:00,2025-01-29T08:00,DRUG WITHDRAWN,NONE
+MOCK_001,MOCK_001-049,4,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,N,RELATED,2,60,63,2025-03-01T08:00,2025-03-04T08:00,NONE,DRUG WITHDRAWN
+MOCK_001,MOCK_001-049,5,Investigations,Investigations,Alanine aminotransferase increased,Alanine aminotransferase increased,N,NOT RELATED,1,23,27,2025-01-23T08:00,2025-01-27T08:00,DOSE REDUCED,NONE
+MOCK_001,MOCK_001-050,1,Skin disorders,Skin disorders,Rash,Rash,N,RELATED,1,21,31,2025-01-21T08:00,2025-01-31T08:00,NONE,DRUG WITHDRAWN
+MOCK_001,MOCK_001-050,2,Skin disorders,Skin disorders,Rash,Rash,N,RELATED,3,67,81,2025-03-08T08:00,2025-03-22T08:00,DOSE INTERRUPTED,DOSE REDUCED
+MOCK_001,MOCK_001-050,3,Skin disorders,Skin disorders,Rash,Rash,N,RELATED,3,77,91,2025-03-18T08:00,2025-04-01T08:00,DRUG WITHDRAWN,DOSE REDUCED
+MOCK_001,MOCK_001-051,1,General disorders,General disorders,Fatigue,Fatigue,N,NOT RELATED,1,35,39,2025-02-04T08:00,2025-02-08T08:00,DOSE REDUCED,DRUG INTERRUPTED
+MOCK_001,MOCK_001-051,2,Blood disorders,Blood disorders,Anemia,Anemia,N,RELATED,1,60,61,2025-03-01T08:00,2025-03-02T08:00,NONE,NONE
+MOCK_001,MOCK_001-051,3,Skin disorders,Skin disorders,Rash,Rash,Y,RELATED,1,4,17,2025-01-04T08:00,2025-01-17T08:00,NONE,NONE
+MOCK_001,MOCK_001-052,1,Blood disorders,Blood disorders,Anemia,Anemia,N,NOT RELATED,1,52,60,2025-02-21T08:00,2025-03-01T08:00,NONE,DOSE REDUCED
+MOCK_001,MOCK_001-052,2,General disorders,General disorders,Fatigue,Fatigue,N,RELATED,1,72,86,2025-03-13T08:00,2025-03-27T08:00,NONE,DOSE REDUCED
+MOCK_001,MOCK_001-052,3,Investigations,Investigations,Alanine aminotransferase increased,Alanine aminotransferase increased,N,RELATED,1,14,22,2025-01-14T08:00,2025-01-22T08:00,NONE,NONE
+MOCK_001,MOCK_001-053,1,Blood disorders,Blood disorders,Anemia,Anemia,N,NOT RELATED,1,7,12,2025-01-07T08:00,2025-01-12T08:00,NONE,NONE
+MOCK_001,MOCK_001-053,2,Skin disorders,Skin disorders,Rash,Rash,Y,RELATED,2,63,76,2025-03-04T08:00,2025-03-17T08:00,DRUG WITHDRAWN,NONE
+MOCK_001,MOCK_001-053,3,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,N,NOT RELATED,1,65,66,2025-03-06T08:00,2025-03-07T08:00,DRUG WITHDRAWN,DRUG WITHDRAWN
+MOCK_001,MOCK_001-053,4,Skin disorders,Skin disorders,Rash,Rash,N,RELATED,2,43,56,2025-02-12T08:00,2025-02-25T08:00,NONE,NONE
+MOCK_001,MOCK_001-053,5,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,N,NOT RELATED,1,10,20,2025-01-10T08:00,2025-01-20T08:00,NONE,NONE
+MOCK_001,MOCK_001-054,1,Investigations,Investigations,Alanine aminotransferase increased,Alanine aminotransferase increased,N,RELATED,1,51,64,2025-02-20T08:00,2025-03-05T08:00,NONE,NONE
+MOCK_001,MOCK_001-054,2,Blood disorders,Blood disorders,Anemia,Anemia,N,RELATED,1,13,17,2025-01-13T08:00,2025-01-17T08:00,NONE,NONE
+MOCK_001,MOCK_001-054,3,General disorders,General disorders,Fatigue,Fatigue,N,RELATED,1,38,44,2025-02-07T08:00,2025-02-13T08:00,DOSE INTERRUPTED,DOSE REDUCED
+MOCK_001,MOCK_001-054,4,Blood disorders,Blood disorders,Anemia,Anemia,N,RELATED,1,65,67,2025-03-06T08:00,2025-03-08T08:00,DOSE REDUCED,DRUG INTERRUPTED
+MOCK_001,MOCK_001-055,1,Skin disorders,Skin disorders,Rash,Rash,Y,NOT RELATED,2,70,75,2025-03-11T08:00,2025-03-16T08:00,DRUG WITHDRAWN,DRUG INTERRUPTED
+MOCK_001,MOCK_001-055,2,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,RELATED,3,25,27,2025-01-25T08:00,2025-01-27T08:00,DOSE REDUCED,NONE
+MOCK_001,MOCK_001-055,3,Skin disorders,Skin disorders,Rash,Rash,N,RELATED,3,59,63,2025-02-28T08:00,2025-03-04T08:00,DRUG WITHDRAWN,NONE
+MOCK_001,MOCK_001-055,4,Skin disorders,Skin disorders,Rash,Rash,N,RELATED,1,15,27,2025-01-15T08:00,2025-01-27T08:00,NONE,NONE
+MOCK_001,MOCK_001-055,5,General disorders,General disorders,Fatigue,Fatigue,N,NOT RELATED,3,3,8,2025-01-03T08:00,2025-01-08T08:00,DOSE REDUCED,NONE
+MOCK_001,MOCK_001-056,1,Blood disorders,Blood disorders,Anemia,Anemia,N,RELATED,3,63,67,2025-03-04T08:00,2025-03-08T08:00,DOSE REDUCED,DRUG INTERRUPTED
+MOCK_001,MOCK_001-056,2,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,N,RELATED,1,78,79,2025-03-19T08:00,2025-03-20T08:00,DRUG WITHDRAWN,DRUG INTERRUPTED
+MOCK_001,MOCK_001-056,3,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,NOT RELATED,2,9,19,2025-01-09T08:00,2025-01-19T08:00,DOSE INTERRUPTED,DRUG INTERRUPTED
+MOCK_001,MOCK_001-056,4,Blood disorders,Blood disorders,Anemia,Anemia,N,RELATED,3,3,8,2025-01-03T08:00,2025-01-08T08:00,NONE,NONE
+MOCK_001,MOCK_001-056,5,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,N,NOT RELATED,1,1,7,2025-01-01T08:00,2025-01-07T08:00,DRUG WITHDRAWN,DRUG INTERRUPTED
+MOCK_001,MOCK_001-057,1,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,N,RELATED,2,23,36,2025-01-23T08:00,2025-02-05T08:00,DOSE REDUCED,NONE
+MOCK_001,MOCK_001-057,2,Investigations,Investigations,Alanine aminotransferase increased,Alanine aminotransferase increased,N,RELATED,1,74,79,2025-03-15T08:00,2025-03-20T08:00,DOSE INTERRUPTED,DRUG INTERRUPTED
+MOCK_001,MOCK_001-057,3,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,Y,NOT RELATED,1,45,53,2025-02-14T08:00,2025-02-22T08:00,NONE,DOSE REDUCED
+MOCK_001,MOCK_001-057,4,General disorders,General disorders,Fatigue,Fatigue,N,NOT RELATED,1,73,87,2025-03-14T08:00,2025-03-28T08:00,NONE,DOSE REDUCED
+MOCK_001,MOCK_001-058,1,Investigations,Investigations,Alanine aminotransferase increased,Alanine aminotransferase increased,N,RELATED,1,38,42,2025-02-07T08:00,2025-02-11T08:00,DOSE REDUCED,NONE
+MOCK_001,MOCK_001-058,2,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,N,RELATED,1,2,15,2025-01-02T08:00,2025-01-15T08:00,NONE,DRUG WITHDRAWN
+MOCK_001,MOCK_001-058,3,Investigations,Investigations,Alanine aminotransferase increased,Alanine aminotransferase increased,N,RELATED,1,26,28,2025-01-26T08:00,2025-01-28T08:00,NONE,DRUG WITHDRAWN
+MOCK_001,MOCK_001-058,4,Skin disorders,Skin disorders,Rash,Rash,N,NOT RELATED,2,63,75,2025-03-04T08:00,2025-03-16T08:00,DOSE INTERRUPTED,DOSE REDUCED
+MOCK_001,MOCK_001-059,1,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,NOT RELATED,1,37,38,2025-02-06T08:00,2025-02-07T08:00,NONE,NONE
+MOCK_001,MOCK_001-059,2,Gastrointestinal disorders,Gastrointestinal disorders,Nausea,Nausea,N,RELATED,1,52,60,2025-02-21T08:00,2025-03-01T08:00,DOSE REDUCED,DRUG INTERRUPTED
+MOCK_001,MOCK_001-059,3,Investigations,Investigations,Alanine aminotransferase increased,Alanine aminotransferase increased,N,NOT RELATED,2,11,20,2025-01-11T08:00,2025-01-20T08:00,NONE,DRUG INTERRUPTED
+MOCK_001,MOCK_001-059,4,Gastrointestinal disorders,Gastrointestinal disorders,Diarrhea,Diarrhea,N,RELATED,1,48,52,2025-02-17T08:00,2025-02-21T08:00,NONE,DOSE REDUCED
+MOCK_001,MOCK_001-059,5,Investigations,Investigations,Alanine aminotransferase increased,Alanine aminotransferase increased,N,RELATED,1,36,39,2025-02-05T08:00,2025-02-08T08:00,NONE,DOSE REDUCED
+MOCK_001,MOCK_001-060,1,General disorders,General disorders,Fatigue,Fatigue,N,NOT RELATED,1,64,76,2025-03-05T08:00,2025-03-17T08:00,NONE,NONE
+MOCK_001,MOCK_001-060,2,Blood disorders,Blood disorders,Anemia,Anemia,N,NOT RELATED,1,41,43,2025-02-10T08:00,2025-02-12T08:00,NONE,DOSE REDUCED
+MOCK_001,MOCK_001-060,3,General disorders,General disorders,Fatigue,Fatigue,N,RELATED,1,56,57,2025-02-25T08:00,2025-02-26T08:00,NONE,NONE
