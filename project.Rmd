@@ -68,7 +68,7 @@ output: html_document
 }
 </style>
 
-# Projects
+
 
 Here are selected projects in data science, biostatistics, and interactive application development.
 
