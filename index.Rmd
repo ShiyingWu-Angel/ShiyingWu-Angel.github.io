@@ -1,23 +1,247 @@
 ---
-title: "Shiying Wu(Angel)'s Amazing Web"
-output: 
-  html_document:
-    toc: true
-    toc_float: true
+title: "Shiying(Angel) Wu's Amazing Website"
+output: html_document
 ---
 
-# Welcome to My Website
-Hello! My name is Shiying Wu(Angel), and I'm currently taking MS in Biostatistics at Columbia University. I have a strong interest in applying statistical methods to solve real-world problems.
+<style>
+body {
+  color: #2c3e50;
+}
 
-Feel free to explore, and reach out if you’d like to collaborate or discuss any exciting opportunities!
+.main-container {
+  max-width: 1100px;
+  margin: 0 auto;
+}
 
-**Contact Info:**    
-**Email:** [sw3455@columbia.edu](mailto:sw3455@columbia.edu)  
-**GitHub:** [ShiyingWu-Angel](https://github.com/ShiyingWu-Angel)      
-**Linkedin:** [Shiying-Wu-Angel](https://www.linkedin.com/in/shiying-wu-angel/)
+.hero {
+  text-align: center;
+}
 
-If you'd like to learn more about this website, visit [this page](https://github.com/ShiyingWu-Angel/ShiyingWu-Angel.github.io).
+.hero h1 {
+  font-size: 44px;
+  font-weight: 700;
+  color: #2c7fb8;
+  margin-bottom: 30px;
+}
 
-Me graduating from Columbia University
-![](resource/image/Chess.jpeg)
-![](resource/image/graduate.jpeg)
+.profile {
+  display: flex;
+  gap: 60px;
+  align-items: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-bottom: 45px;
+}
+
+.profile-img {
+  width: 280px;
+  height: 280px;
+  border-radius: 50%;
+  object-fit: cover;
+}
+
+.edu-section {
+  display: flex;
+  flex-direction: column;
+  gap: 30px;
+  align-items: center;
+}
+
+.edu-block {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  gap: 8px;
+}
+
+.edu-text {
+  font-size: 22px;
+  line-height: 1.4;
+  color: #444;
+}
+
+.edu-text strong {
+  font-size: 24px;
+  color: #3a3a3a;
+}
+
+.edu-logo {
+  height: 60px;
+  width: auto;
+  max-width: 180px;
+}
+
+.section-title {
+  font-size: 32px;
+  font-weight: 700;
+  margin-top: 35px;
+  margin-bottom: 15px;
+  color: #2c7fb8;
+  text-align: center;
+}
+
+.about-text {
+  max-width: 850px;
+  font-size: 17px;
+  line-height: 1.7;
+  margin: 0 auto;
+  text-align: left;
+}
+
+.project-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(260px, 1fr));
+  gap: 24px;
+  margin-top: 25px;
+  margin-bottom: 50px;
+}
+
+.project-card {
+  position: relative;
+  height: 220px;
+  overflow: hidden;
+  border-radius: 8px;
+  background: #ddd;
+}
+
+.project-card img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.project-overlay {
+  position: absolute;
+  bottom: 0;
+  color: white;
+  background: rgba(0, 0, 0, 0.55);
+  width: 100%;
+  padding: 12px;
+  font-weight: bold;
+  font-size: 18px;
+}
+
+.footer {
+  margin-top: 50px;
+  padding: 25px 0;
+  font-size: 16px;
+  color: #555;
+  text-align: center;
+}
+
+@media (max-width: 768px) {
+  .hero h1 {
+    font-size: 36px;
+  }
+
+  .profile {
+    gap: 30px;
+  }
+
+  .profile-img {
+    width: 230px;
+    height: 230px;
+  }
+
+  .edu-text {
+    font-size: 19px;
+  }
+
+  .edu-text strong {
+    font-size: 21px;
+  }
+
+  .edu-logo {
+    height: 50px;
+  }
+}
+</style>
+
+<div class="hero">
+# Hello! 你好！こんにちは！Bonjour!
+# Welcome to my website!
+
+</div>
+
+<div class="profile">
+
+<img src="resource/image/profile.jpeg" class="profile-img">
+
+<div class="edu-section">
+
+<div class="edu-block">
+<div class="edu-text">
+<strong>Clinical Data Science Co-op</strong><br>
+Boehringer Ingelheim
+</div>
+<img src="resource/image/BI.jpeg" class="edu-logo">
+</div>
+
+<div class="edu-block">
+<div class="edu-text">
+<strong>M.S. Biostatistics</strong><br>
+Columbia University (2026)
+</div>
+<img src="resource/image/columbia.jpeg" class="edu-logo">
+</div>
+
+<div class="edu-block">
+<div class="edu-text">
+<strong>B.A. Mathematics & Statistics</strong><br>
+Boston University (2024)
+</div>
+<img src="resource/image/bu.jpeg" class="edu-logo">
+</div>
+
+</div>
+
+</div>
+
+---
+
+<div class="section-title">About Me</div>
+
+<div class="about-text">
+
+I am a Master of Science student in Biostatistics at Columbia University, with a background in statistics, clinical data science, and public health research. My interests include clinical trial data visualization, statistical programming, survival analysis, and real-world health data analytics.
+
+I have experience working with R, SAS, SQL, Python, Shiny, and Tableau. My projects focus on translating complex datasets into clear statistical insights, interactive dashboards, and decision-support tools for research and clinical data review.
+
+</div>
+
+<div class="section-title">Previous Projects</div>
+
+<div class="about-text">
+Selected projects in clinical data science, biostatistics, and data visualization.  
+*Note: The interactive app may take a few seconds to load on first visit.*
+</div>
+
+<div class="project-grid">
+
+<a href="https://shiyingwu-angel.shinyapps.io/clinical-data-explorer/" target="_blank">
+<div class="project-card">
+<img src="resource/image/shinyapp.jpeg">
+<div class="project-overlay">R Shiny Interactive Clinical Data Explorer</div>
+</div>
+</a>
+
+<a href="yelp_project.html">
+<div class="project-card">
+<img src="resource/image/yelp-top-100-us-restaurants.jpeg">
+<div class="project-overlay">R Shiny Yelp Restaurant Analyst</div>
+</div>
+</a>
+
+<a href="sas.html">
+<div class="project-card">
+<img src="resource/image/sascog.png">
+<div class="project-overlay">SAS Clinical Data Analysis</div>
+</div>
+</a>
+
+</div>
+
+<div class="footer">
+© 2026 Shiying Wu (Angel)
+</div>

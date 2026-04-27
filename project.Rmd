@@ -1,4 +1,3 @@
-
 ---
 title: "Projects"
 output: html_document
@@ -68,28 +67,9 @@ output: html_document
 }
 </style>
 
-
-
 Here are selected projects in data science, biostatistics, and interactive application development.
 
 <div class="project-grid">
-
-<div class="project-card">
-<a href="yelp_project.html">
-<img src="resource/image/yelp-top-100-us-restaurants.jpeg" alt="Pennsylvania Yelp Restaurant Analysis" class="project-image">
-</a>
-<div class="project-content">
-<div class="project-title">
-<a href="yelp_project.html">Pennsylvania Yelp Restaurant Analysis & Finder</a>
-</div>
-<div class="project-text">
-A team project combining Yelp restaurant data analysis with an interactive Shiny app for restaurant search by city, time, cuisine, price, and rating.
-</div>
-<span class="project-tag">R Shiny</span>
-<span class="project-tag">Statistical Model</span>
-<span class="project-tag">Data Visualization</span>
-</div>
-</div>
 
 <div class="project-card">
 <a href="https://shiyingwu-angel.shinyapps.io/clinical-data-explorer/" target="_blank">
@@ -112,19 +92,37 @@ An interactive clinical data exploration tool built with R Shiny, supporting pat
 </div>
 
 <div class="project-card">
-<a href="about.html">
-<img src="resource/images/coming_soon.png" alt="Biostatistics Projects Coming Soon" class="project-image">
+<a href="yelp_project.html">
+<img src="resource/image/yelp-top-100-us-restaurants.jpeg" alt="Pennsylvania Yelp Restaurant Analysis" class="project-image">
 </a>
 <div class="project-content">
 <div class="project-title">
-<a href="about.html">Biostatistics & Clinical Data Projects</a>
+<a href="yelp_project.html">Pennsylvania Yelp Restaurant Analysis & Finder</a>
 </div>
 <div class="project-text">
-More projects in survival analysis, clinical data science, and public health analytics will be added here.
+A team project combining Yelp restaurant data analysis with an interactive Shiny app for restaurant search by city, time, cuisine, price, and rating.
 </div>
+<span class="project-tag">R Shiny</span>
+<span class="project-tag">Statistical Model</span>
+<span class="project-tag">Data Visualization</span>
+</div>
+</div>
+
+<div class="project-card">
+<a href="sas.html">
+<img src="resource/image/sascog.png" alt="SAS Clinical Data Analysis" class="project-image">
+</a>
+<div class="project-content">
+<div class="project-title">
+<a href="sas.html">SAS Clinical Data Analysis: MetS & Memory</a>
+</div>
+<div class="project-text">
+A SAS-based biostatistics project analyzing the association between metabolic syndrome and episodic memory through data cleaning, clinical variable derivation, and regression modeling.
+</div>
+<span class="project-tag">SAS</span>
 <span class="project-tag">Biostatistics</span>
-<span class="project-tag">Clinical Data</span>
-<span class="project-tag">Coming Soon</span>
+<span class="project-tag">Regression</span>
+<span class="project-tag">Clinical Research</span>
 </div>
 </div>
 
